@@ -1,4 +1,4 @@
-from classes import FabricaEdificiosEstiloArquitectonico, FabricaEdificios
+from fabrica import FabricaEdificiosEstiloArquitectonico, FabricaEdificios
 from clientcode import client_code
 
 if __name__ == "__main__":

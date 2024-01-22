@@ -1,4 +1,7 @@
-from classes import *
+from edificio import Edificio
+from proyectoconstr import ProyectoDeConstruccion
+from regulacion import RegulacionLocal
+from datetime import datetime
 
 if __name__ == "__main__":
     try:

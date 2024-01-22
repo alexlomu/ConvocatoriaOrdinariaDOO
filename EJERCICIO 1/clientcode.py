@@ -1,4 +1,6 @@
-from classes import *
+from edificio import *
+from tiposedifios import *
+
 
 def client_code(factory: EdificioFactory, tipo: str) -> None:
     if tipo == "residencial":
